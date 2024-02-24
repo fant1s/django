@@ -1,8 +1,5 @@
 import os
 from dotenv import load_dotenv
-import flake8
-import black
-import github
 
 load_dotenv()
 
