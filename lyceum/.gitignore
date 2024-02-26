@@ -3,3 +3,8 @@ __pycache__/
 myvenv/
 db.sqlite3
 venv
+.github
+.vscode
+.env
+settings.py
+setup.cfg
